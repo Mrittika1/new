@@ -1,0 +1,28 @@
+body {
+ text-align:center;
+background:linear-gradient(#edd6ff 0%,#c077f7 100%);
+  background-repeat:no-repeat;
+ }
+
+img {
+height: 200px;
+width: 300px;
+}
+
+.menu{
+list-style:none;  
+font-family:fantasy;
+float:right;
+top:10px;
+right:30px;
+cursor:pointer;
+}
+
+.links{
+display:inline;
+padding-top:5px;
+padding-left:9px;
+padding-right:9px;
+padding-bottom:5px;
+color:plum;
+}
